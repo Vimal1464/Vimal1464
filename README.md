@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** and **TensorFlow**.
 
-- 👯 I’m looking to collaborate on **Spring Boot Jwt Authentication**.
+- 👯 I’m looking to collaborate on [**Spring Boot Jwt Authentication**](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/Vimal1464/spring-boot-spring-security-jwt-authentication).
 
 - 📫 How to reach me: [vimalpandey1978.78@gmail.com](mailto:vimalpandey1978.78@gmail.com)
 
@@ -16,8 +16,6 @@
 Check out my repository on Spring Boot Jwt Authentication. It's an example demonstrating token-based authentication using Spring Boot, Spring Security, and JWT.
 
 [![Spring Boot Jwt Authentication](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/Vimal1464/spring-boot-spring-security-jwt-authentication)
-
-- 📫 How to reach me **vimalpandey1978.78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

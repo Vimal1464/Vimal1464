@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot** and **TensorFlow**.
 
-- 👯 I’m looking to collaborate on [**Spring Boot Jwt Authentication**](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/Vimal1464/spring-boot-spring-security-jwt-authentication).
+- 👯 I’m looking to collaborate on [React Native](https://github.com/facebook/react-native) .
 
 - 📫 How to reach me: [vimalpandey1978.78@gmail.com](mailto:vimalpandey1978.78@gmail.com)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vimal Pandey</h1>
 <h3 align="center">Passionate about creating both the look and functionality of websites (frontend) as well as handling the behind-the-scenes operations (backend), I'm an 18-year-old university student majoring in Computer Science with a focus on Artificial Intelligence and Data Science.</h3>
 
-- 🔭 Currently Working At Code Aspire Consultancy Service [Frontend Lead Developer](code-aspire.com)
+- 🔭 Currently Working At Code Aspire Consultancy Service Frontend Lead Developer (code-aspire.com)
 
 - 🌱 I’m currently learning **Spring Boot, Tenserflow.**
 

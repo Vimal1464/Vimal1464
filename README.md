@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vimal Pandey</h1>
 <h3 align="center">Passionate about creating both the look and functionality of websites (frontend) as well as handling the behind-the-scenes operations (backend), I'm an 18-year-old university student majoring in Computer Science with a focus on Artificial Intelligence and Data Science.</h3>
 
-- 🔭 Currently Working At Code Aspire Consultancy Service Frontend Lead Developer (code-aspire.com)
+- 🔭 I'm currently working at [Code Aspire Consultancy Service](https://code-aspire.com) as a Frontend Lead Developer.
 
-- 🌱 I’m currently learning **Spring Boot, Tenserflow.**
+- 🌱 I’m currently learning **Spring Boot** and **TensorFlow**.
 
-- 👯 I’m looking to collaborate on **React Native Projects**
+- 👯 I’m looking to collaborate on **Spring Boot Jwt Authentication**.
+
+- 📫 How to reach me: [vimalpandey1978.78@gmail.com](mailto:vimalpandey1978.78@gmail.com)
+
+## My Projects
+
+### Spring Boot Jwt Authentication Example
+
+Check out my repository on Spring Boot Jwt Authentication. It's an example demonstrating token-based authentication using Spring Boot, Spring Security, and JWT.
+
+[![Spring Boot Jwt Authentication](https://img.shields.io/badge/GitHub-Repository-blueviolet.svg)](https://github.com/Vimal1464/spring-boot-spring-security-jwt-authentication)
 
 - 📫 How to reach me **vimalpandey1978.78@gmail.com**
 
